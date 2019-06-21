@@ -8,6 +8,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Initialize adding a Detail Grid row automatically after a Master Grid row is created
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4954/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to handle the OnRowInserted event to add rows to the Detail Grid after a Master Grid row has been created.</p>
